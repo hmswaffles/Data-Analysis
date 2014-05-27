@@ -106,7 +106,16 @@ def correct_times(gender,d):
             
     return speedls
             
-            
+def cleandata():
+    M,F = data_loader()
+    MT = convert_times(M)
+    MD = convert_dates(M)
+    males = []
+    for i in range(len(M)):
+        m = [int(MD[i]),MT[i]]
+        males.append(m)
+    return males
+    
 
 def make_plots(d,correct):
     men = d[0]
