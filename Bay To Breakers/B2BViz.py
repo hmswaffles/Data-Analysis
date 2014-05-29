@@ -108,7 +108,7 @@ def correct_times(gender,d):
             
 def cleandata():
     M,F = data_loader()
-    MT = convert_times(M)
+    MT = 
     MD = convert_dates(M)
     males = []
     for i in range(len(M)):
