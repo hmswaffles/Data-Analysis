@@ -1,5 +1,5 @@
 
-XKCD-World Color Survey
+#XKCD-World Color Survey
 
 ======================
 
@@ -13,12 +13,12 @@ WELCOME TO THE WIDE WORLD OF COLOR
 
 
 
-#Super Concise Summary: 
+##Super Concise Summary: 
 The code below can 'average' colors together in a way 
 that would make sense to a painter, and interact with the data from both the 
 XKCDcolor survey, as well as academic research on color
 
-#Less Concise Summary: 
+###Less Concise Summary: 
 This code contains the tools necessary to a) investigate the xkcd color database,
  b) transform rgb values to perceptually even colorspaces,
  c) Plot colors in perceptually even 3d colorspace and d) compare with the results of the World Color Survey.
@@ -35,14 +35,14 @@ Additionally, there are tools for (some) linguistic analysis of the color terms.
 looking at chromatic pop-out
 
 
-#Other Notes:
+##Other Notes:
 
 Thanks to the good folks at Enthought and the authors of the Mayavi package, 
 Brent Berlin, Paul Kay, Randall Munroe, all those involved in the WCS or the XKCD color survey 
 and Terry Regier and the fine folks at the U.C. Berkeley Language and Cognition Lab. Especially Emily Cibelli.
 
 
-# Questions? 
+## Questions? 
 Email evanw@evanwarfel.com if you have any questions. If you do use this in something publication worthy, please cite me. 
 This code is for academic/research purposes only, unless you contact me first.
 
