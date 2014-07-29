@@ -14,17 +14,17 @@ WELCOME TO THE WIDE WORLD OF COLOR
 
 
 ##Super Concise Summary: 
-The code below can 'average' colors together in a way 
-that would make sense to a painter, and interact with the data from both the 
-XKCDcolor survey, as well as academic research on color
+The code in this directory 'average' colors together in a way that would make sense to a painter, and interact with the data from both the XKCDcolor survey, as well as academic research on colornaming and categorization.
 
 ###Less Concise Summary: 
-This code contains the tools necessary to a) investigate the xkcd color database,
- b) transform rgb values to perceptually even colorspaces,
- c) Plot colors in perceptually even 3d colorspace and d) compare with the results of the World Color Survey.
+This code contains the tools necessary to
+a) investigate the xkcd color database,
+b) transform rgb values to perceptually even colorspaces,
+c) Plot colors in perceptually even 3d colorspace and d) compare with the results of the World Color Survey.
+
 For instance, if you are curious about what all of the 'happy' colors (aka 'happy blue', 'happy green',
- look like, what their perceptual center is,as well as how this relates to the munsell standard color reference)
- you are in the right place.
+look like, what their perceptual center is,as well as how this relates to the munsell standard color reference)
+you are in the right place.
 
 
 There are also routines for converting RGB to CIELab and CIELove space
