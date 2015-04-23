@@ -3,7 +3,7 @@ Data-Analysis
 
 Welcome!
 
-This repo houses my general Data Analysis amd related projects code.
+This repo houses my general Data Analysis and related projects code.
 
 To view the Ipython Notebooks containted within, click here: http://nbviewer.ipython.org/github/hmswaffles/Data-Analysis/tree/master/
 
