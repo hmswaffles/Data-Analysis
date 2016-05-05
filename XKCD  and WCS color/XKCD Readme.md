@@ -37,13 +37,17 @@ looking at chromatic pop-out
 
 ##Other Notes:
 
+Vendi Vidi Ceviche, er Caveat Emptor.
+
+This was the first real coding project I ever did, so expect to find plenty of odd code. It works, it's useful if you know what you are looking for, but it ain't pretty.
+
 Thanks to the good folks at Enthought and the authors of the Mayavi package, 
 Brent Berlin, Paul Kay, Randall Munroe, all those involved in the WCS or the XKCD color survey 
 and Terry Regier and the fine folks at the U.C. Berkeley Language and Cognition Lab. Especially Emily Cibelli.
 
 
 ## Questions? 
-Email evanw@evanwarfel.com if you have any questions. If you do use this in something publication worthy, please cite me. 
+Email hello@evanwarfel.com if you have any questions. If you do use this in something publication worthy, please cite me if you have the cance to do so. 
 This code is for academic/research purposes only, unless you contact me first.
 
 
