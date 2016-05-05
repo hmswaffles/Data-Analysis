@@ -21,11 +21,8 @@
 #thanks to the good folks at Enthought and the authors of the Mayavi package, Brent Berlin, Paul Kay, Randall Munroe, all those involved in the WCS or the XKCD color survey
 #and Terry Regier and the fine folks at the U.C. Berkeley Language and Cognition Lab. Especially Emily Cibelli.
 
-# Questions? email evanw@evanwarfel.com 
+# Questions? email hello@evanwarfel.com 
 
-# if you do use this in something publication worthy, please cite me. 
-
-#This code is for academic/research purposes only, unless you contact me first.
 
 #----------------------------------------------------------------------------
 
